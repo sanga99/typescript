@@ -27,4 +27,3 @@ const face = new Face(5);
 console.log(face.edge)    // 5
 console.log(face.vertex)  // 3
 
-
